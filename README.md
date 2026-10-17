@@ -1,6 +1,7 @@
 So, its just a web site, but with some ground breaking features 👀👀👀
 
 You have this features:
+    
     Timer - Features a visual progress bar and plays a custom audio notification (`sound.mp3`) when your time is out
 
     
