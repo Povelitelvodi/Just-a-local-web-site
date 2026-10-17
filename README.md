@@ -16,8 +16,7 @@ And everything made without AI 100% information
 
 
 For this web site you need:
-    Python 3.10+
-    Streamlit
+    Python 3.10+ and Streamlit
     
     
 How to Run Locally
