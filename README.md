@@ -2,8 +2,14 @@ So, its just a web site, but with some ground breaking features 👀👀👀
 
 You have this features:
     Timer - Features a visual progress bar and plays a custom audio notification (`sound.mp3`) when your time is out
+
+    
     Habit Tracker - A clean 7-day grid that helps you stick to your daily routines and goals.
+
+    
     Vibe of the Day Generator - A fun widget that provides instant coding wisdom and motivational quotes at the click of a button.
+
+    
     
 And everything made without AI 100% information
 
