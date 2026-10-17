@@ -17,7 +17,7 @@ How to Run Locally
 
 1. Clone the repository:
 
-   git clone https://github.com/Povelitelvodi/Local-web-site-on-Streamlit-with-some-cool-features-you-will-definitely-use
+   git clone https://github.com/Povelitelvodi/Just-a-local-web-site
 2. Navigate into the project folder:
 
    cd (folder name)
